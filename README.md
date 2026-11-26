@@ -82,8 +82,5 @@ Retail-Sales-Forecasting/
 └── .gitignore
 ```
 
-## Author
-Data Science Portfolio Project
-
 ## Disclaimer
 Forecasts are estimates based on historical sales patterns and should not be treated as guaranteed future demand.
