@@ -53,7 +53,7 @@ Download train.csv and place it inside the data folder.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ushma-patel05/Retail-Sales-Forecasting
 ```
 
 Install dependencies:
